@@ -2289,10 +2289,10 @@ error-ex@^1.3.1:
   dependencies:
     is-arrayish "^0.2.1"
 
-es-module-lexer@*, es-module-lexer@^0.9.0:
-  version "0.9.0"
-  resolved "https://registry.yarnpkg.com/es-module-lexer/-/es-module-lexer-0.9.0.tgz#fe4c4621977bc668e285c5f1f70ca3b451095fda"
-  integrity sha512-qU2eN/XHsrl3E4y7mK1wdWnyy5c8gXtCbfP6Xcsemm7fPUR1PIV1JhZfP7ojcN0Fzp69CfrS3u76h2tusvfKiQ==
+es-module-lexer@*, es-module-lexer@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/es-module-lexer/-/es-module-lexer-1.0.3.tgz#f0d8d35b36d13024110000d5e6fadc8eeaeb66b8"
+  integrity sha512-iC67eXHToclrlVhQfpRawDiF8D8sQxNxmbqw5oebegOaJkyx/w9C/k57/5e6yJR2zIByRt9OXdqX50DV2t6ZKw==
 
 es5-ext@^0.10.35, es5-ext@^0.10.45, es5-ext@^0.10.46, es5-ext@^0.10.50, es5-ext@^0.10.51, es5-ext@^0.10.53, es5-ext@~0.10.14, es5-ext@~0.10.2, es5-ext@~0.10.46:
   version "0.10.53"
